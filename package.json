@@ -1,0 +1,17 @@
+{
+  "name": "node-typescript-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./app/index.js",
+  "scripts": {
+    "start": "node ./app/index.js",
+    "build": "tsc",
+    "build:w": "tsc -w"
+  },
+  "keywords": [],
+  "author": "Guus Claessen",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^7.0.18"
+  }
+}
