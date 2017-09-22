@@ -1,42 +1,42 @@
 # node-typescript-template
 Just a template to get me started with node projects with typescript
 
-# Setup
+## Setup
 
-## Dependancies
+### Dependancies
 
-### Node with npm
+#### Node with npm
 https://nodejs.org/en/download/
 
-### Install typescript
+#### Install typescript
 ```
-npm install -g tyscript
+npm install -g typescript
 ```
-### GIT (optional)
+#### GIT (optional)
 https://git-scm.com/downloads
 You can also download this repo.
 
-## Setup project
+### Setup project
 
-### Get project
+#### Get project
 Get this project with git or download.
 ```
 git clone https://github.com/guushub/node-typescript-template.git
 ```
 
-### Install node modules
+#### Install node modules
 ```
 cd node-typescript-template
 npm install
 ```
 
-### Build 
+#### Compile 
 `npm run build`
 
 To add a watcher to compile on save:
 `npm run build:w`
 
-# Run
+## Run
 `npm start`
 
 and browse to http://localhost:8080
